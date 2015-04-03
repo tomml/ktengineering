@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThePrettierBoy</string>
+
+    <string name="dummy_button">BtnClick</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="HelloWorld_imgView">a</string>
+    <string name="tom_string">tom</string>
+    <string name="klaus_string">klaus</string>
+    <string name="title_activity_haas">haas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
